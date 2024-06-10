@@ -1,0 +1,1 @@
+formatted_strings.py demonstrates how to use formatted strings with the f'' syntax and passing variables via the curly brackets {}

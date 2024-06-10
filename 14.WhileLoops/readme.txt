@@ -1,0 +1,1 @@
+this file contains an exercise on guessing game using a while loop (a script where the user guesses their lucky number for a limited number of chances. they may win or lose the game.)
